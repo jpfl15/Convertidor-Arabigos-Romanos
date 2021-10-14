@@ -1,0 +1,16 @@
+C:\Users\juanp\source\repos\Convertidor_Arabigos-Romanos\Convertidor_Arabigos-Romanos\bin\Debug\net5.0\Convertidor_Arabigos-Romanos.exe
+C:\Users\juanp\source\repos\Convertidor_Arabigos-Romanos\Convertidor_Arabigos-Romanos\bin\Debug\net5.0\Convertidor_Arabigos-Romanos.deps.json
+C:\Users\juanp\source\repos\Convertidor_Arabigos-Romanos\Convertidor_Arabigos-Romanos\bin\Debug\net5.0\Convertidor_Arabigos-Romanos.runtimeconfig.json
+C:\Users\juanp\source\repos\Convertidor_Arabigos-Romanos\Convertidor_Arabigos-Romanos\bin\Debug\net5.0\Convertidor_Arabigos-Romanos.runtimeconfig.dev.json
+C:\Users\juanp\source\repos\Convertidor_Arabigos-Romanos\Convertidor_Arabigos-Romanos\bin\Debug\net5.0\Convertidor_Arabigos-Romanos.dll
+C:\Users\juanp\source\repos\Convertidor_Arabigos-Romanos\Convertidor_Arabigos-Romanos\bin\Debug\net5.0\ref\Convertidor_Arabigos-Romanos.dll
+C:\Users\juanp\source\repos\Convertidor_Arabigos-Romanos\Convertidor_Arabigos-Romanos\bin\Debug\net5.0\Convertidor_Arabigos-Romanos.pdb
+C:\Users\juanp\source\repos\Convertidor_Arabigos-Romanos\Convertidor_Arabigos-Romanos\obj\Debug\net5.0\Convertidor_Arabigos-Romanos.csprojAssemblyReference.cache
+C:\Users\juanp\source\repos\Convertidor_Arabigos-Romanos\Convertidor_Arabigos-Romanos\obj\Debug\net5.0\Convertidor_Arabigos-Romanos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juanp\source\repos\Convertidor_Arabigos-Romanos\Convertidor_Arabigos-Romanos\obj\Debug\net5.0\Convertidor_Arabigos-Romanos.AssemblyInfoInputs.cache
+C:\Users\juanp\source\repos\Convertidor_Arabigos-Romanos\Convertidor_Arabigos-Romanos\obj\Debug\net5.0\Convertidor_Arabigos-Romanos.AssemblyInfo.cs
+C:\Users\juanp\source\repos\Convertidor_Arabigos-Romanos\Convertidor_Arabigos-Romanos\obj\Debug\net5.0\Convertidor_Arabigos-Romanos.csproj.CoreCompileInputs.cache
+C:\Users\juanp\source\repos\Convertidor_Arabigos-Romanos\Convertidor_Arabigos-Romanos\obj\Debug\net5.0\Convertidor_Arabigos-Romanos.dll
+C:\Users\juanp\source\repos\Convertidor_Arabigos-Romanos\Convertidor_Arabigos-Romanos\obj\Debug\net5.0\ref\Convertidor_Arabigos-Romanos.dll
+C:\Users\juanp\source\repos\Convertidor_Arabigos-Romanos\Convertidor_Arabigos-Romanos\obj\Debug\net5.0\Convertidor_Arabigos-Romanos.pdb
+C:\Users\juanp\source\repos\Convertidor_Arabigos-Romanos\Convertidor_Arabigos-Romanos\obj\Debug\net5.0\Convertidor_Arabigos-Romanos.genruntimeconfig.cache
